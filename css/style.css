@@ -1,0 +1,39 @@
+header, h1{
+    font-family: "Roboto" ;
+    text-align: center;
+   
+}
+h1{
+    background-color: rgb(93, 93, 93) ;
+    margin-top: 0;
+    padding: 20px;
+}
+form{
+    color:   rgb(93, 93, 93),darkgray, black;
+}
+
+body, main{
+    background-image: url(/img/background.jpg);
+     background-repeat: none;
+    background-size: cover;
+}
+
+table, th, td{
+    border: 1px solid black;
+   margin-top: 50px;
+   font-size: 30px;
+   
+}
+table, th{
+    background-color: rgb(93, 93, 93);
+    padding: 50px;
+}
+
+form{
+    display: inline;
+    float: left;
+    margin-left: 200px;
+    background-color: darkgray ;
+    padding: 10px;
+    font-size: 30px;
+}
