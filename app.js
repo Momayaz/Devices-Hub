@@ -73,7 +73,7 @@ Item.prototype.renderParag = function() {
     var sectionEl = document.getElementById('paragraph');
     var h2El = document.createElement('h2')
     sectionEl.appendChild(h2El);
-    h2El.innerHTML = `Total:${this.total}`;
+    h2El.innerHTML = `${this.total}`;
 
 }
 
